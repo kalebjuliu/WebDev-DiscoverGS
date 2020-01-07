@@ -1,1 +1,2 @@
-# discover-gading-serpong
+# tipsy-landingpage
+Tipsy Calculator landing page.
